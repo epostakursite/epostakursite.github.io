@@ -5,21 +5,19 @@ date: 2017-12-04 13:25:06 -0700
 comments: false
 ---
 
-Gmail Kaydol, Gmail E-Posta Al
-	Google tarafından 2004 yılında beta sürümü oluşturulan ve 2007 senesinde de tüm internet kullanıcılarının hizmetine açılan Gmail servisi, ücretsiz bir e-posta sistemidir. Gmail’e kaydol işlemi son derece basit olduğu gibi, kullanıcı arayüzü de profesyoneldir. Ayrıca Gmail’e, mevcutta bir milyardan fazla internet kullanıcısı kullanmaktadır. Sistemin, tüm mobil platformlarında uygulamaları bulunmaktadır.
-	Gmail E Posta Al
-	Gmail kaydol işlemini başlatmak için öncelikle https://accounts.google.com/SignUp adresine erişmemiz gerekiyor. Daha sonra karşınıza çıkan ekranı şu bilgilere göre doldurmalısınız:
-Başlangıç olarak isim ve soyisminizi yazmak zorundasınız.
-Kullanıcı adınızı seçin bölümünden ise, kullanmak istediğiniz e-posta adresini belirlemeniz gerekmektedir. Uzantılarınızın @gmail.com olacağını unutmayın.
-Şifre kısmında basit olmayan, karmaşık bir şifre tercih etmelisiniz. Şifrenizi alttaki kutucuğa da doğrulama için gireceğinizi unutmayın.
-Doğum günü yazan kutucuğa da gerçek doğum tarihinizi eksiksiz bir şekilde girmelisiniz. Bu bilginin doğru olması, ileride yaşayabileceğiniz olumsuz durumlarda hesabınızı geri alabilmek için önem arz edecektir.
-Cinsiyet kısmını erkek, kadın ya da belirtmemeyi tercih ediyorum şeklinde işaretleyebilirsiniz.
-Cep telefonu numaranız da, tıpkı doğum gününüz gibi hesabınızı güvende tutmak için çok önemlidir. Bu nedenle girilmesini öneriyoruz. Daha sonraki aşamada SMS doğrulama kodu gelecektir.
-Mevcut e-posta adresiniz kısmı ise, eğer var olan bir e-posta adresiniz varsa, hesap güvenliğiniz için ek olarak onu da ekleyebilmenize olanak sağlamaktadır.
-Böylece Gmail eposta al işlemlerini başarıyla tamamlamış oldunuz. 
+Google tarafından 2004 yılında beta sürümü oluşturulan ve 2007 senesinde de tüm internet kullanıcılarının hizmetine açılan Gmail servisi, ücretsiz bir <a href="www.epostakur.site">e-posta aç</a> sistemidir. Gmail kaydol işlemi son derece basit olduğu gibi, kullanıcı arayüzü de profesyoneldir. Ayrıca Gmail'in, mevcutta bir milyardan fazla internet kullanıcısı kullanmaktadır. Sistemin, tüm mobil platformlarında uygulamaları bulunmaktadır.
+
+<h2>Gmail E Posta Kur</h2>
+<ul><li>Gmail kaydol işlemini başlatmak için öncelikle <a target="_blank" rel="nofollow" href="https://accounts.google.com/SignUp">accounts.google.com/SignUp</a> adresine tıklayıp, erişmemiz gerekiyor. Daha sonra karşınıza çıkan ekranı şu bilgilere göre doldurmalısınız:</li>
+<li>Başlangıç olarak isim ve soyisminizi yazmak zorundasınız.</li>
+<li>Kullanıcı adınızı seçin bölümünden ise, kullanmak istediğiniz e-posta adresini belirlemeniz gerekmektedir. Uzantılarınızın @gmail.com olacağını unutmayın.</li>
+<li>Şifre kısmında basit olmayan, karmaşık bir şifre tercih etmelisiniz. Şifrenizi alttaki kutucuğa da doğrulama için gireceğinizi unutmayın.</li>
+<li>Doğum günü yazan kutucuğa da gerçek doğum tarihinizi eksiksiz bir şekilde girmelisiniz. Bu bilginin doğru olması, ileride yaşayabileceğiniz olumsuz durumlarda hesabınızı geri alabilmek için önem arz edecektir.</li>
+<li>Cinsiyet kısmını erkek, kadın ya da belirtmemeyi tercih ediyorum şeklinde işaretleyebilirsiniz.</li>
+<li>Cep telefonu numaranız da, tıpkı doğum gününüz gibi hesabınızı güvende tutmak için çok önemlidir. Bu nedenle girilmesini öneriyoruz. Daha sonraki aşamada SMS doğrulama kodu gelecektir.</li>
+<li>Mevcut e-posta adresiniz kısmı ise, eğer var olan bir e-posta adresiniz varsa, hesap güvenliğiniz için ek olarak onu da ekleyebilmenize olanak sağlamaktadır.</li>
+<li>Böylece Gmail eposta al işlemlerini başarıyla tamamlamış oldunuz.</li></ul>
 
 <hr>
 **Yorumlar**<br/><br/>
-Hasan: *Gerçekten mükemmelsiniz. Sizin sayenizde sınıftaki herkes e-posta açtı ve öğretmenimiz sürekli sizin sitenizi bize tavsiye ediyor.*
-
-Sibel: *E posta açma konusunda siz bir uzmansınız. Yardımlarınız sayesinde yeni bir e posta kurdum.*
+Ahmed: *E posta açarken işimize yarayacak güzel bir kaynak web sitesi hazırlamışsınız.*
