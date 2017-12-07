@@ -6,9 +6,10 @@ comments: false
 ---
 
 Microsoft’un ücretsiz olarak kullanıcılarına sunduğu e-bir posta sistemi olan Hotmail, dünyada Gmail’den sonraki en popüler mail servislerinden biridir. Daha önceden Windows Live Hotmail ismiyle yayın yapan Hotmail, yine başka bir Microsoft servisi olan Outlook ile birleştirilerek bugünkü hâlini almıştır.
-
+{% include ad %}
 <h2>Hotmail Kaydol</h2>
 <ul><li>Hotmail kaydol işlemleri için öncelikle <a rel="nofollow" target="_blank" href="https://signup.live.com/signup?wa=wsignin1.0&rpsnv=13&ct=1511545484&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3A%2F%2Foutlook.live.com%2Fowa%2F%3Fnlp%3D1%26RpsCsrfState%3Dfd557193-3a5c-f91b-e910-c139695f2d98&id=292841&CBCXT=out&lw=1&fl=dob%2Cflname%2Cwld&cobrandid=90015&contextid=15FF541B2E51C793&bk=1511545484&uiflavor=web&uaid=d7a6c7e83f4a4960b4e3bcf12393c9fc&mkt=TR-TR&lc=1055&lic=1">linkine tıklayarak</a> kayıt bölümüne erişmemiz gerekecek.</li>
+{% include ad %}
 <li>Karşınıza çıkacak ekranda öncelikle e-posta hesabınızın ismini ve uzantısını seçmek zorundasınız. İsim seçerken Türkçe karakterleri kullanamazsınız.</li>
 <li>Uzantı alternatifleri arasında da @outlook.com, @outlook.com.tr ve @hotmail.com adresleri yer almaktadır. Bunlardan dilediğinizi seçerek bir parola belirlemelisiniz.</li>
 <li>Parolanızı seçerken en az sekiz karakterden oluşan, hem sayı hem de alfabetik karakter içeren bir şifre seçmeniz yararınıza olacaktır.</li>
