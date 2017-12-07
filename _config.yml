@@ -30,7 +30,7 @@ isso: ''
 disqus: ''
 
 permalink: /:title
-paginate: 5
+paginate: 6
 
 highlighter: rouge
 markdown: kramdown
