@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: PDF E Kitap İndir
-description: Ücretsiz PDF Kitap İndir ve E-Kitap İndir arşivleri paylaşan bir blog.
+name: E Posta Kur, E Posta Aç, Email Aç - Kaydol
+description: E Posta Kur, E Posta Aç, Email Aç konularında basitçe anlatımlarla sizler de Hotmail kaydol işlemini kolayca yapın.
 
 # url is currently only used only for the RSS feed in feed.xml
 url:
