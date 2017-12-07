@@ -1,26 +1,23 @@
 ---
 layout: post
-title: "PDF Kitap İndir"
-date: 2017-11-17 13:25:06 -0700
+title: "Yahoo E Posta Aç"
+date: 2017-12-01 13:25:06 -0700
 comments: false
 ---
 
-<p><strong>PDF Kitap İndir</strong> konumuzda Yandex Disk ve Google Drive gibi sitelerdeki <strong>e-kitap arşivleri</strong> bulunmaktadır. Sitemizdeki kitapları bu arşivlerde bulabilirsiniz. Ayrıca mobil uygulamamızı indirerek telefon ve tabletten arşive daha kolay ulaşabilirsiniz. PDF ve e-kitapları indir işlemi yapmadan online okuyabileceğiniz gibi cihazınıza yükledikten sonra da okuyabilirsiniz.</p>
+Ülkemizde artık pek kullanılmasa da, internetin ilk gözbebeklerinden olan Yahoo, ücretsiz bir e-posta servisine sahiptir. Bu servis sayesinde Yahoo e posta aç işlemini yaparak iletişiminizi online mecraya taşıyabilirsiniz.
 
-{% include adg %}
+<h2>Yahoo E Posta Kur</h2>
+<ul><li>Ücretsiz e-posta hesabı açmak için öncelikle <a target="_blank" rel="nofollw" href="https://login.yahoo.com/account/create?src=ym&intl=tr&lang=tr-TR&done=https%3A%2F%2Ftr.mail.yahoo.com%2F&specId=yidReg">adresine tıklayıp</a> girerek kayıt sayfasına ulaşmanız gerekiyor.</li>
+<li>Karşınıza duran Kaydol ekranında isim ve soyisminizi girin.</li>
+<li>Daha sonra uzantısı @yahoo.com olmak kaydıyla kullanıcı adınızı belirlemeniz gerekmektedir. Kullanıcı adınızı, daha önce kayıt altına alınmış bir hesap ile aynı olarak belirlerseniz sistem hata verecektir.</li>
+<li>Parola kısmında en az sekiz karakterden oluşan bir şifre belirlemelisiniz. Belirleyeceğiniz şifre, hesabınızı güvende tutmak adına en önemli kriter olacağından, ne kadar karmaşık şifre seçerseniz o kadar güvende olursunuz.</li>
+<li>Bir alttaki kutucukta cep telefonu numaranızı girmeniz gerekmektedir. Hesabınızın güvenliği için telefon numaranızın doğru olarak girilmesinde fayda bulunmaktadır.</li>
+<li>Doğum tarihinizi de ay, gün ve yıl olarak girin.</li>
+<li>Son kutucukta dilerseniz cinsiyetinizi seçerek hesabınızın kurulumu tamamlamış oluyorsunuz.</li></ul>
 
-<center><img src="/images/pdf-kitap-indir.jpg" alt="PDF Kitap İndir" style="max-width:100%;" /></center>
-
-{% include ad %}
-
-<p>Arşivlerimizdeki <strong>PDF Kitaplar</strong> kategorize edilmiş bir şekilde listelenir. Öncelikle aradığınız kitap hangi dildeyse o dizine girin. Daha sonra kategori ve alt kategori seçimi yapın. Ya da arşivi kendi hesabınıza klonladıktan sonra arama kutusunu kullanın ve doğrudan kitap ismini yazın. Böylelikle aradığınız <strong>e-kitap</strong> dosyasına daha çabuk ulaşabilirsiniz.</p>
-
-***Örnek Dizin: Türkçe > Tıp > Bitkisel > Aidin Salih - Gerçek Tıp Yitik Şifanın İzinde***
-
-<p><a href="https://yadi.sk/d/eUVTSuIW3Q8k3M" rel="nofollow"><button type="submit" class="btn btn-warning">PDF E-KİTAP ARŞİVİ (YANDEX DİSK)</button></a></p>
-<p><a href="#"><button type="submit" class="btn btn-primary">PDF E-KİTAP ARŞİVİ (GOOGLE DRİVE)</button></a></p>
-{% include ads %}
+Yahoo kaydolma işlemini başarıyla tamamladıktan sonra, Yahoo’nun e-posta dışındaki diğer tüm hizmetlerinden de faydalanmaya başlayabilirsiniz. Finans, haberler, analizler gibi birçok uygulama, Yahoo.com adresinde sizlere hizmet verecektir. Eğer @yahoo.com uzantılı kullanıcı adı istemiyorsanız, Kaydol ekranından var olan farklı bir e-posta adresinizi de Yahoo hesabı oluşturmak için kullanabilirsiniz.
 
 <hr>
 **Yorumlar**<br/><br/>
-Doktor: *Harika bir arşiv olmuş. Hazırlayanların ellerine sağlık. Siteniz çok başarılı teşekkür ediyorum.*
+Doktor: *Harika bir yazı olmuş, çok teşekkürler. Yahoo'dan hemen yeni bir mail hesabı açtım.*
