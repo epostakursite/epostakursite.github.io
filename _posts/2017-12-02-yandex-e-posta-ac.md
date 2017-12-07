@@ -21,4 +21,5 @@ Yandex E Posta al işlemlerinizi başarıyla tamamladınız.
 <hr>
 **Yorumlar**<br/><br/>
 Necla: *Bu siteyi çok seviyorum. Hep çok güzel rehberler hazırlıyorlar böylelikle benim gibi teknolojiden anlamayanlar da e posta açmayı başarıyorlar.*
+
 Sertan: *Aynen bu site adamdır. E posta açmayı buradan öğrendim çünkü.*
