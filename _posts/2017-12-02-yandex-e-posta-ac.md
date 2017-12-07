@@ -6,6 +6,7 @@ comments: false
 ---
 
 Rus arama motoru Yandex’e ait bir e-posta servisi olan Yandex E Posta Aç, Türkiye pazarına girdikten sonra Türk kullanıcılar tarafından da sıklıkla tercih edilmiştir. Ayrıca telefonsuz olarak üye olunması herkes tarafından tercih sebebi olmuştur. Ücretsiz olarak kullanıma sunulan Yandex.Mail, birçok Yandex hesabıyla birlikte çalışarak sizlere web dünyasının kapılarını aralamaktadır.
+
 <h2>Yandex E Posta Kur</h2>
 <ul><li>Kayıt işlemini gerçekleştirebilmek için öncelikle https://mail.yandex.com.tr/ adresine giriş yapmanız gerekmektedir. Daha sonra, karşımıza çıkan ekranda Hesap oluştur butonuna tıklayarak işlemlere başlayabilirsiniz.</li>
 <li>İlk kutucukta isim ve soyisminizi girmeniz gerekmektedir.</li>
