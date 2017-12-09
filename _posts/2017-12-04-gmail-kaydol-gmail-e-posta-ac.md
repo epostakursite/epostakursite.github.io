@@ -7,7 +7,7 @@ comments: false
 
 Google tarafından 2004 yılında beta sürümü oluşturulan ve 2007 senesinde de tüm internet kullanıcılarının hizmetine açılan Gmail servisi, ücretsiz bir <a href="http://www.epostakur.site">e-posta aç</a> sistemidir. Gmail kaydol işlemi son derece basit olduğu gibi, kullanıcı arayüzü de profesyoneldir. Ayrıca Gmail'in, mevcutta bir milyardan fazla internet kullanıcısı kullanmaktadır. Sistemin, tüm mobil platformlarında uygulamaları bulunmaktadır.
 
-{% include adg %}
+{% include adesnek %}
 <h2>Gmail E Posta Kur</h2>
 <ul><li>Gmail kaydol işlemini başlatmak için öncelikle <a target="_blank" rel="nofollow" href="https://accounts.google.com/SignUp">accounts.google.com/SignUp</a> adresine tıklayıp, erişmemiz gerekiyor. Daha sonra karşınıza çıkan ekranı şu bilgilere göre doldurmalısınız:</li>
 {% include ad %}
