@@ -7,7 +7,7 @@ comments: false
 
 Microsoft’un ücretsiz olarak kullanıcılarına sunduğu e-bir posta sistemi olan Hotmail, dünyada Gmail’den sonraki en popüler mail servislerinden biridir. Daha önceden Windows Live Hotmail ismiyle yayın yapan Hotmail, yine başka bir Microsoft servisi olan Outlook ile birleştirilerek bugünkü hâlini almıştır.
 
-{% include ad %}
+{% include adg %}
 <h2>Hotmail Kaydol</h2>
 <ul><li>Hotmail kaydol işlemleri için öncelikle <a rel="nofollow" target="_blank" href="https://signup.live.com/signup?wa=wsignin1.0&rpsnv=13&ct=1511545484&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3A%2F%2Foutlook.live.com%2Fowa%2F%3Fnlp%3D1%26RpsCsrfState%3Dfd557193-3a5c-f91b-e910-c139695f2d98&id=292841&CBCXT=out&lw=1&fl=dob%2Cflname%2Cwld&cobrandid=90015&contextid=15FF541B2E51C793&bk=1511545484&uiflavor=web&uaid=d7a6c7e83f4a4960b4e3bcf12393c9fc&mkt=TR-TR&lc=1055&lic=1">linkine tıklayarak</a> kayıt bölümüne erişmemiz gerekecek.</li>
 {% include ad %}
@@ -17,7 +17,7 @@ Microsoft’un ücretsiz olarak kullanıcılarına sunduğu e-bir posta sistemi 
 <li>İleri dediğiniz zaman isim ve soyisminizi ekrana yazmanız gerekiyor. </li>
 <li>İsim bilgilerinizden sonra tekrar ileri diyerek hangi ülkede yaşadığınızı ve doğum tarihinizi işaretlemeniz gerekmektedir.</li>
 <li>Hotmail, güvenlik doğrulaması için sizden güvenlik resmindeki harf ve rakamları boş kutucuğa girmenizi isteyebilir. Bu bölümü doğru olarak girdikten sonra tekrar ileri butonuna tıklamalısınız.</li></ul>
-{% include ad %}
+{% include adg %}
 Bu aşamadan sonra e-posta adresiniz başarıyla oluşturulmuş olacak. Şimdi yapmanız gereken tek şey, gerekli konfigürasyon ayarlarını yapmak. Hotmail’e hangi dilde ve sat diliminde kullanmak istediğinizi seçerek ileriye doğru devam edin. Karşınıza, Hotmail hesabınız için temalar çıkacaktır. Bu temalardan istediğinizi seçerek devam edebilirsiniz. Son aşamada ise gönderdiğiniz e-postaların altına eklenen imza alanını oluşturarak Hotmail aç işlemini bitirebilirsiniz.
 
 <hr>
