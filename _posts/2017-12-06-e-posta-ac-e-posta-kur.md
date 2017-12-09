@@ -9,7 +9,7 @@ Bu sayfamızda E Posta Aç işleminin yapıldığı en popüler 5 adresi sizler 
 
 İlk olarak 1971 yılında kullanılmaya başlanan elektronik postalar, zaman içerisinde hayatımızın vazgeçilmez bir iletişim unsuru oldu. Bu nispetle internet kullanıcılarının hemen hepsinde muhakkak bir e-posta hesabı bulunuyor ve bu hesap aracılığıyla da hem iletişim hem de sosyal medya kullanımı gibi işlemler gerçekleştirilebiliyor. E-posta almak için birçok ücretsiz servis kullanılabileceği gibi, ücretli e-posta hizmeti veren kuruluşlar da bulunmaktadır. Ücretsiz olarak hesap hizmeti veren firmalar arasında şunlar sayılabilir: Gmail, Yandex, Yahoo, Hotmail, MSN.
 
-{% include adg %}
+{% include adesnek %}
 <h2>Hotmail E Posta Kur</h2>
 Eski adı Windows Live Hotmail olan Hotmail, dünyaca ünlü Microsoft firması tarafından geliştirilen ücretsiz bir e-posta servisidir. 2013 yılında Outlook.com ile birleşmesi sonucu bugünkü durumuna gelmiştir.
 
@@ -27,6 +27,7 @@ Milenyum ile birlikte faaliyete geçen Rus arama motoru Yandex’in bir hizmeti 
 
 Yandex Kaydolma Linki: <a href="http://www.epostakur.site/yandex-e-posta-ac">Yandex Kaydolmak İçin Tıkla</a>
 
+{% include adesnek %}
 <h3>Yahoo E Posta Al</h3>
 1995 yılında kurulan internet şirketi Yahoo’nun sunmuş olduğu ücretsiz e-posta servisi, internetin bilinen ilk mail sunucularından biridir. Yahoo üzerinden @yahoo.com uzantılı e-posta adresi alabilirsiniz.
 
